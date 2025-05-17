@@ -21,3 +21,8 @@
 * if-else-if
 * switch
 * boolean operators
+
+# code6.cpp
+
+* String functions
+* Loops
