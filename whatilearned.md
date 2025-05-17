@@ -18,3 +18,6 @@
 
 # code5.cpp 
 * Math functions
+* if-else-if
+* switch
+* boolean operators
