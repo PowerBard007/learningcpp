@@ -26,3 +26,11 @@
 
 * String functions
 * Loops
+
+# code7.cpp
+
+* Generating random numbers and events
+
+# code8.cpp
+
+* Functions
