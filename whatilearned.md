@@ -34,3 +34,20 @@
 # code8.cpp
 
 * Functions
+
+# code9.cpp
+
+* fill function
+* const function
+* displaying array only till the value are inputted
+* 2d array
+
+# code10.cpp
+
+* Memory Addresses
+* Pointers
+* Dynamic Memory(also creating array using dynamic memory)
+
+# code11.cpp
+
+* Recursion
