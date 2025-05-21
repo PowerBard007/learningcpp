@@ -14,7 +14,7 @@
 * Type Conversion
 
 # code4.cpp
-* input of all kinds[int, string, sting ith spaces, char etc]
+* input of all kinds[int, string, string with spaces, char etc]
 
 # code5.cpp 
 * Math functions
@@ -51,3 +51,20 @@
 # code11.cpp
 
 * Recursion
+* Function Template
+* Struct
+
+# code12.cpp
+
+* Object Oriented Programming
+* Objects, class and access modifiers
+* Constructors
+
+# code13.cpp
+
+* Overloaded constructors
+* Data Abstraction(getters and setters)
+
+# code 14.cpp
+
+* Inheritance
